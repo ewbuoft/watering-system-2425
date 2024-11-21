@@ -1,6 +1,6 @@
 # Hardware Project Template
 
-General template repository for our hardware projects, especially one-off and self-contained projects like custom test equipment. This template assumes that the hardware is being designed in KiCad.
+General template repository for hardware projects. This template assumes that the hardware is being designed in KiCad.
 
 ## Organization
 

@@ -8,8 +8,8 @@
 
 #include <DHT.h>
 
-#define DHT1Pin 9 // pin number 1
-#define DHT2Pin 11 // pin number 2
+#define DHT1Pin 8 // pin number 1
+#define DHT2Pin 12 // pin number 2
 
 #define DHTTYPE DHT22
 DHT dht1(DHT1Pin, DHTTYPE);
